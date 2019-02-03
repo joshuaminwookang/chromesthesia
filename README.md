@@ -1,2 +1,3 @@
-# chromesthesia
-TBA
+# Meet Chromesthesia
+
+Music, colors, visualization
